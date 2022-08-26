@@ -5,4 +5,6 @@ Repositório para soluções dos exercícios do beecrowd.
 
 As soluções estão separadas com base na linguagem usada para sua resolução e de acordo com a categoria do problema (definida pelo beecrowd).
 
-Em caso de dúvidas, contate-me pelo discord (Panabue#1904) ou pelo e-mail (theotorminn@gmail.com).✵
+Em caso de dúvidas, contate-me pelo discord (Panabue#1904) ou pelo e-mail (theotorminn@gmail.com).
+
+Bons estudos!🚀✵
