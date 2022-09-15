@@ -6,7 +6,7 @@ int main() {
     double A, B, C;
     scanf("%lf" "%lf" "%lf", &A, &B, &C);
     
-    double delta = (B*B)-4*A*C;
+    double delta = B*B-4*A*C;
     double raiz = sqrt(delta);
     double R1 = (-B + raiz)/(2*A);
     double R2 = (-B - raiz)/(2*A);
